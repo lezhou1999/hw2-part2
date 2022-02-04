@@ -66,3 +66,4 @@ int main(){
 
     return 0;
 }
+// I use power 1 times pre day in average
